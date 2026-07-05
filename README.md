@@ -1,4 +1,4 @@
-# Assessment and Mitigation of Average Delay and its Economic Cost in Dhaka Level Crossings
+# ASSESSMENT OF CONGESTION DELAY AND ITS ECONOMIC COST AT GRADE CROSSINGS OF DHAKA CITY
 
 **A Machine Learning–Driven and Econometric Analysis of Railway Level-Crossing Congestion**
 
@@ -8,7 +8,7 @@
 ![License](https://img.shields.io/badge/License-AGPL%20v3-blue)
 ![Status](https://img.shields.io/badge/Type-Thesis%20Research-green)
 
-> **Thesis:** *Assessment and Mitigation of Average Delay and its Economic Cost Modeling in Level Crossings of Dhaka Using Machine Learning-Driven Models and Econometric Analysis.*
+> **Thesis:** *ASSESSMENT OF CONGESTION DELAY AND ITS ECONOMIC COST AT GRADE CROSSINGS OF DHAKA CITY USING MACHINE LEARNINGDRIVEN MODELS.*
 
 This repository contains the full computer-vision and traffic-engineering pipeline used to quantify the **average vehicular delay** and the resulting **economic cost** caused by railway gate closures at two level-crossing intersections in Dhaka, Bangladesh — **Khilgaon** (heavily congested) and **Mohakhali** (lighter traffic).
 
