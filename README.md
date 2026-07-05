@@ -200,9 +200,7 @@ If you use this work, please cite the thesis:
 
 ```bibtex
 @thesis{level_crossing_dhaka,
-  title  = {Assessment and Mitigation of Average Delay and its Economic Cost
-            Modeling in Level Crossings of Dhaka Using Machine Learning-Driven
-            Models and Econometric Analysis},
+  title  = {ASSESSMENT OF CONGESTION DELAY AND ITS ECONOMIC COST AT GRADE CROSSINGS OF DHAKA CITY USING MACHINE LEARNING DRIVEN MODELS},
   author = {Towfiqur Rashid},
   school = {Rajshahi University of Engineering and Technology},
   year   = {2026}
