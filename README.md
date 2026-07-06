@@ -143,7 +143,7 @@ All data is hosted on Kaggle. The training set is the merged, labelled dataset; 
 | [Mohakhali 17-12](https://www.kaggle.com/datasets/towfiqurrashid/mohakhali) | Mohakhali CCTV footage |
 | [Mohakhali 19-12](https://www.kaggle.com/datasets/towfiqurrashid/mohakhali-25-12) | Mohakhali CCTV footage |
 
-> The trained detector checkpoint (`best_map50_0.75.pt`) is bundled inside the **Khilgaon 14-12** dataset. Point `MODEL_PATH` in the detection notebooks at it, or train your own with `Dataset_Training.ipynb`.
+> The trained detector checkpoint (`best_map50_0.75.pt`) is bundled inside each dataset. Point `MODEL_PATH` in the detection notebooks at it, or train your own with `Dataset_Training.ipynb`. These CCTV footages are not made publicly available. If you need, mail at 2007053.towfiq@gmail.com
 
 ---
 
